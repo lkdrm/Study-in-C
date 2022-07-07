@@ -1,0 +1,15 @@
+D:\Програми\Visual_Code_C#\BaseofApiString\BaseofApiString\bin\Debug\net6.0\BaseofApiString.exe
+D:\Програми\Visual_Code_C#\BaseofApiString\BaseofApiString\bin\Debug\net6.0\BaseofApiString.deps.json
+D:\Програми\Visual_Code_C#\BaseofApiString\BaseofApiString\bin\Debug\net6.0\BaseofApiString.runtimeconfig.json
+D:\Програми\Visual_Code_C#\BaseofApiString\BaseofApiString\bin\Debug\net6.0\BaseofApiString.dll
+D:\Програми\Visual_Code_C#\BaseofApiString\BaseofApiString\bin\Debug\net6.0\BaseofApiString.pdb
+D:\Програми\Visual_Code_C#\BaseofApiString\BaseofApiString\obj\Debug\net6.0\BaseofApiString.csproj.AssemblyReference.cache
+D:\Програми\Visual_Code_C#\BaseofApiString\BaseofApiString\obj\Debug\net6.0\BaseofApiString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програми\Visual_Code_C#\BaseofApiString\BaseofApiString\obj\Debug\net6.0\BaseofApiString.AssemblyInfoInputs.cache
+D:\Програми\Visual_Code_C#\BaseofApiString\BaseofApiString\obj\Debug\net6.0\BaseofApiString.AssemblyInfo.cs
+D:\Програми\Visual_Code_C#\BaseofApiString\BaseofApiString\obj\Debug\net6.0\BaseofApiString.csproj.CoreCompileInputs.cache
+D:\Програми\Visual_Code_C#\BaseofApiString\BaseofApiString\obj\Debug\net6.0\BaseofApiString.dll
+D:\Програми\Visual_Code_C#\BaseofApiString\BaseofApiString\obj\Debug\net6.0\refint\BaseofApiString.dll
+D:\Програми\Visual_Code_C#\BaseofApiString\BaseofApiString\obj\Debug\net6.0\BaseofApiString.pdb
+D:\Програми\Visual_Code_C#\BaseofApiString\BaseofApiString\obj\Debug\net6.0\BaseofApiString.genruntimeconfig.cache
+D:\Програми\Visual_Code_C#\BaseofApiString\BaseofApiString\obj\Debug\net6.0\ref\BaseofApiString.dll

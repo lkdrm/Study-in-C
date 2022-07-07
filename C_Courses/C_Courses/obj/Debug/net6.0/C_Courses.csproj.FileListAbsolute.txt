@@ -1,0 +1,15 @@
+D:\Програми\Visual_Code_C#\C_Courses\C_Courses\bin\Debug\net6.0\C_Courses.exe
+D:\Програми\Visual_Code_C#\C_Courses\C_Courses\bin\Debug\net6.0\C_Courses.deps.json
+D:\Програми\Visual_Code_C#\C_Courses\C_Courses\bin\Debug\net6.0\C_Courses.runtimeconfig.json
+D:\Програми\Visual_Code_C#\C_Courses\C_Courses\bin\Debug\net6.0\C_Courses.dll
+D:\Програми\Visual_Code_C#\C_Courses\C_Courses\bin\Debug\net6.0\C_Courses.pdb
+D:\Програми\Visual_Code_C#\C_Courses\C_Courses\obj\Debug\net6.0\C_Courses.csproj.AssemblyReference.cache
+D:\Програми\Visual_Code_C#\C_Courses\C_Courses\obj\Debug\net6.0\C_Courses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програми\Visual_Code_C#\C_Courses\C_Courses\obj\Debug\net6.0\C_Courses.AssemblyInfoInputs.cache
+D:\Програми\Visual_Code_C#\C_Courses\C_Courses\obj\Debug\net6.0\C_Courses.AssemblyInfo.cs
+D:\Програми\Visual_Code_C#\C_Courses\C_Courses\obj\Debug\net6.0\C_Courses.csproj.CoreCompileInputs.cache
+D:\Програми\Visual_Code_C#\C_Courses\C_Courses\obj\Debug\net6.0\C_Courses.dll
+D:\Програми\Visual_Code_C#\C_Courses\C_Courses\obj\Debug\net6.0\refint\C_Courses.dll
+D:\Програми\Visual_Code_C#\C_Courses\C_Courses\obj\Debug\net6.0\C_Courses.pdb
+D:\Програми\Visual_Code_C#\C_Courses\C_Courses\obj\Debug\net6.0\C_Courses.genruntimeconfig.cache
+D:\Програми\Visual_Code_C#\C_Courses\C_Courses\obj\Debug\net6.0\ref\C_Courses.dll

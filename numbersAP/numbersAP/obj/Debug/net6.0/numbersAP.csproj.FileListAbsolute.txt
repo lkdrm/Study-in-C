@@ -1,0 +1,15 @@
+D:\Програми\Visual_Code_C#\numbersAP\numbersAP\bin\Debug\net6.0\numbersAP.exe
+D:\Програми\Visual_Code_C#\numbersAP\numbersAP\bin\Debug\net6.0\numbersAP.deps.json
+D:\Програми\Visual_Code_C#\numbersAP\numbersAP\bin\Debug\net6.0\numbersAP.runtimeconfig.json
+D:\Програми\Visual_Code_C#\numbersAP\numbersAP\bin\Debug\net6.0\numbersAP.dll
+D:\Програми\Visual_Code_C#\numbersAP\numbersAP\bin\Debug\net6.0\numbersAP.pdb
+D:\Програми\Visual_Code_C#\numbersAP\numbersAP\obj\Debug\net6.0\numbersAP.csproj.AssemblyReference.cache
+D:\Програми\Visual_Code_C#\numbersAP\numbersAP\obj\Debug\net6.0\numbersAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програми\Visual_Code_C#\numbersAP\numbersAP\obj\Debug\net6.0\numbersAP.AssemblyInfoInputs.cache
+D:\Програми\Visual_Code_C#\numbersAP\numbersAP\obj\Debug\net6.0\numbersAP.AssemblyInfo.cs
+D:\Програми\Visual_Code_C#\numbersAP\numbersAP\obj\Debug\net6.0\numbersAP.csproj.CoreCompileInputs.cache
+D:\Програми\Visual_Code_C#\numbersAP\numbersAP\obj\Debug\net6.0\numbersAP.dll
+D:\Програми\Visual_Code_C#\numbersAP\numbersAP\obj\Debug\net6.0\refint\numbersAP.dll
+D:\Програми\Visual_Code_C#\numbersAP\numbersAP\obj\Debug\net6.0\numbersAP.pdb
+D:\Програми\Visual_Code_C#\numbersAP\numbersAP\obj\Debug\net6.0\numbersAP.genruntimeconfig.cache
+D:\Програми\Visual_Code_C#\numbersAP\numbersAP\obj\Debug\net6.0\ref\numbersAP.dll
