@@ -1,0 +1,15 @@
+D:\Програми\Visual_Code_C#\SomeTasks\SomeTasks\bin\Debug\net6.0\SomeTasks.exe
+D:\Програми\Visual_Code_C#\SomeTasks\SomeTasks\bin\Debug\net6.0\SomeTasks.deps.json
+D:\Програми\Visual_Code_C#\SomeTasks\SomeTasks\bin\Debug\net6.0\SomeTasks.runtimeconfig.json
+D:\Програми\Visual_Code_C#\SomeTasks\SomeTasks\bin\Debug\net6.0\SomeTasks.dll
+D:\Програми\Visual_Code_C#\SomeTasks\SomeTasks\bin\Debug\net6.0\SomeTasks.pdb
+D:\Програми\Visual_Code_C#\SomeTasks\SomeTasks\obj\Debug\net6.0\SomeTasks.csproj.AssemblyReference.cache
+D:\Програми\Visual_Code_C#\SomeTasks\SomeTasks\obj\Debug\net6.0\SomeTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програми\Visual_Code_C#\SomeTasks\SomeTasks\obj\Debug\net6.0\SomeTasks.AssemblyInfoInputs.cache
+D:\Програми\Visual_Code_C#\SomeTasks\SomeTasks\obj\Debug\net6.0\SomeTasks.AssemblyInfo.cs
+D:\Програми\Visual_Code_C#\SomeTasks\SomeTasks\obj\Debug\net6.0\SomeTasks.csproj.CoreCompileInputs.cache
+D:\Програми\Visual_Code_C#\SomeTasks\SomeTasks\obj\Debug\net6.0\SomeTasks.dll
+D:\Програми\Visual_Code_C#\SomeTasks\SomeTasks\obj\Debug\net6.0\refint\SomeTasks.dll
+D:\Програми\Visual_Code_C#\SomeTasks\SomeTasks\obj\Debug\net6.0\SomeTasks.pdb
+D:\Програми\Visual_Code_C#\SomeTasks\SomeTasks\obj\Debug\net6.0\SomeTasks.genruntimeconfig.cache
+D:\Програми\Visual_Code_C#\SomeTasks\SomeTasks\obj\Debug\net6.0\ref\SomeTasks.dll
