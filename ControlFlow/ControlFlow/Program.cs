@@ -161,7 +161,6 @@ static void pairsAndTriplets()
     }
 }
 
-
 static void doWhileDo()
 {
     int age = 30;
@@ -197,4 +196,155 @@ static void doWhileDo()
         i++;
     }
     Console.WriteLine("End.");
+}
+
+static void breakContinue()
+{
+    int[] nmbs = { 0, 2, 4, 7, 5, 3, 6, 1, 8, 9 };
+
+    for (int i = 0; i < nmbs.Length; i++)
+    {
+        if (nmbs[i] % 2 != 0)
+        {
+            continue;
+        }
+        Console.WriteLine(nmbs[i]);
+    }
+
+
+    int[] numbrs = { 0, 2, 4, 7, 5, 3, 6, 1, 8, 9 };
+    char[] letters = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j' };
+
+    for (int i = 0; i < numbrs.Length; i++)
+    {
+        Console.WriteLine($"Number : {numbrs[i]}" + " ");
+        for (int j = 0; j < letters.Length; j++)
+        {
+            if (numbrs[i] == j)
+            {
+                break;
+            }
+            Console.Write($"{letters[j]} ");
+
+        }
+        Console.WriteLine();
+    }
+
+
+    int[] numbers = { 1, -2, 4, -7, 5, 3, 2, -1, -3, 2, 7, -1, -3, 1, 7 };
+
+    int count = 0;
+
+    for (int i = 0; i < numbers.Length - 1; i++)
+    {
+        if (count == 3)
+        {
+            break;
+        }
+        for (int j = i + 1; j < numbers.Length; j++)
+        {
+            int aI = numbers[i];
+            int bJ = numbers[j];
+
+            if (aI + bJ == 0)
+            {
+                Console.WriteLine($"Pairs ({aI};{bJ}). Indexes ({i};{j})");
+                count++;
+            }
+            if (count == 3)
+            {
+                break;
+            }
+        }
+    }
+}
+
+static void switchMethod()
+{
+    int month = int.Parse(Console.ReadLine());
+
+    string season = string.Empty;
+
+    switch (month)
+    {
+        case 1:
+        case 2:
+        case 12:
+            season = "Winter";
+            break;
+        case 3:
+        case 4:
+        case 5:
+            season = "Spring";
+            break;
+        case 6:
+        case 7:
+        case 8:
+            season = "Summer";
+            break;
+        case 9:
+        case 10:
+        case 11:
+            season = "Autumn";
+            break;
+        default:
+            season = "Unexpected number of month.";
+            break;
+    }
+    Console.WriteLine(season);
+
+
+    int weddingYears = int.Parse(Console.ReadLine());
+
+    string name = string.Empty;
+
+    switch (weddingYears)
+    {
+        case 5:
+            name = "Wood wedding.";
+            break;
+        case 10:
+            name = "Stannic wedding.";
+            break;
+        case 15:
+            name = "Crystal wedding.";
+            break;
+        case 20:
+            name = "Porcelain wedding.";
+            break;
+        case 25:
+            name = "Silver wedding.";
+            break;
+        case 30:
+            name = "Pearl wedding.";
+            break;
+        default:
+            name = "We don`t know this jubilee.";
+            break;
+    }
+    Console.WriteLine(name);
+}
+
+// Second Task :
+// Fibonacci number`s. The user must to enter a count of numbers which will be generated.
+static void Fibonacci()
+{
+    Console.WriteLine("Enter a numbers of Fibonacci");
+
+    int number = int.Parse(Console.ReadLine());
+
+    var myList = new List<int> { 1, 1 };
+
+    for (int i = 0; i < number; i++)
+    {
+        int number_1 = myList[i];
+        int number_2 = myList[myList.Count() - 1];
+        int sum = number_1 + number_2;
+        myList.Add(sum);
+    }
+
+    foreach (int i in myList)
+    {
+        Console.WriteLine(i);
+    }
 }
