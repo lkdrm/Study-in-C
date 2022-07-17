@@ -327,6 +327,7 @@ static void switchMethod()
 
 // Second Task :
 // Fibonacci number`s. The user must to enter a count of numbers which will be generated.
+
 static void Fibonacci()
 {
     Console.WriteLine("Enter a numbers of Fibonacci");
@@ -346,5 +347,130 @@ static void Fibonacci()
     foreach (int i in myList)
     {
         Console.WriteLine(i);
+    }
+}
+
+// Third Task:
+// The user write 10 numebrs >0 and stop when he will have all 10 numbers or when the user write a 0.
+// After than must to find out a Arithmetic mean and all numbers divided by 3.
+
+static void FindAndCount()
+{
+
+    Console.WriteLine("Enter 10 positive numbers:");
+    int i = 0;
+
+    var myList = new List<int> { };
+
+    var myListToThree = new List<int> { };
+
+    while (i < 10)
+    {
+        int number = int.Parse(Console.ReadLine());
+        if (number > 0)
+        {
+            myList.Add(number);
+            i++;
+        }
+        else if (number == 0)
+        {
+            break;
+        }
+        else
+        {
+            Console.WriteLine("The numbers must to be positive.");
+        }
+    }
+
+    int findMiddle = myList.Sum() / myList.Count();
+
+    for (int j = 0; j < myList.Count(); j++)
+    {
+        if (j % 3 == 0)
+        {
+            myListToThree.Add(j);
+        }
+    }
+
+    Console.WriteLine($"The Arithmetic mean is:{findMiddle}");
+    Console.WriteLine("All numbers which is divided by 3:");
+    foreach (int number in myListToThree)
+    {
+        Console.Write($"{number}" + ",");
+    }
+}
+
+// Fourth Task:
+// Find a Factorial of number.
+
+static void FindFactorial()
+{
+
+    Console.WriteLine("Write a number to find out a Factorial:");
+
+    int number = int.Parse(Console.ReadLine());
+
+    var listOfNumbers = new List<int>() { };
+
+    int result = 1;
+
+    for (int i = 1; i <= number; i++)
+    {
+        listOfNumbers.Add(i);
+    }
+
+    foreach (int j in listOfNumbers)
+    {
+        result *= j;
+    }
+
+    Console.WriteLine(result);
+}
+
+// Five Task:
+// Make a authentification like user have login - skywalker and password - qwerty
+// If user write incorrect  three times finish a programm 
+// If the user have correct login the system must to write "Enter the system"
+// The number of available tries have been exceeded
+
+Dictionary<string, string> Users = new Dictionary<string, string>() { {"login","skywalker" },
+                                                                     {"password","qwerty" }, };
+
+Console.WriteLine("To enter to the system write your login and password. Correct , you have only 3 tries.");
+int count = 1;
+
+while(true)
+{
+    Console.WriteLine("Write here you login:");
+    string login = Console.ReadLine();
+    if(Users.ContainsValue(login))
+    {
+        while (true)
+        {
+            Console.WriteLine("Write here your password:");
+            string password = Console.ReadLine();
+            if (Users.ContainsValue(password))
+            {
+                Console.WriteLine("Enter in to the system.");
+                break;
+            }
+            else if (count == 3)
+            {
+                break;
+            }
+            else
+            {
+                count++;
+            }
+        }
+    }
+    else if (count == 3)
+    {
+        Console.WriteLine("The number of available tries have been exceeded");
+        break;
+    }
+    else
+    {
+        Console.WriteLine("Write please correct login.");
     }
 }
