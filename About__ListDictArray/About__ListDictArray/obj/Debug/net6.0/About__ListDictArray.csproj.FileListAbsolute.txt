@@ -1,0 +1,15 @@
+D:\Програми\Visual_Code_C#\About__ListDictArray\About__ListDictArray\obj\Debug\net6.0\About__ListDictArray.csproj.AssemblyReference.cache
+D:\Програми\Visual_Code_C#\About__ListDictArray\About__ListDictArray\obj\Debug\net6.0\About__ListDictArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програми\Visual_Code_C#\About__ListDictArray\About__ListDictArray\obj\Debug\net6.0\About__ListDictArray.AssemblyInfoInputs.cache
+D:\Програми\Visual_Code_C#\About__ListDictArray\About__ListDictArray\obj\Debug\net6.0\About__ListDictArray.AssemblyInfo.cs
+D:\Програми\Visual_Code_C#\About__ListDictArray\About__ListDictArray\obj\Debug\net6.0\About__ListDictArray.csproj.CoreCompileInputs.cache
+D:\Програми\Visual_Code_C#\About__ListDictArray\About__ListDictArray\bin\Debug\net6.0\About__ListDictArray.exe
+D:\Програми\Visual_Code_C#\About__ListDictArray\About__ListDictArray\bin\Debug\net6.0\About__ListDictArray.deps.json
+D:\Програми\Visual_Code_C#\About__ListDictArray\About__ListDictArray\bin\Debug\net6.0\About__ListDictArray.runtimeconfig.json
+D:\Програми\Visual_Code_C#\About__ListDictArray\About__ListDictArray\bin\Debug\net6.0\About__ListDictArray.dll
+D:\Програми\Visual_Code_C#\About__ListDictArray\About__ListDictArray\bin\Debug\net6.0\About__ListDictArray.pdb
+D:\Програми\Visual_Code_C#\About__ListDictArray\About__ListDictArray\obj\Debug\net6.0\About__ListDictArray.dll
+D:\Програми\Visual_Code_C#\About__ListDictArray\About__ListDictArray\obj\Debug\net6.0\refint\About__ListDictArray.dll
+D:\Програми\Visual_Code_C#\About__ListDictArray\About__ListDictArray\obj\Debug\net6.0\About__ListDictArray.pdb
+D:\Програми\Visual_Code_C#\About__ListDictArray\About__ListDictArray\obj\Debug\net6.0\About__ListDictArray.genruntimeconfig.cache
+D:\Програми\Visual_Code_C#\About__ListDictArray\About__ListDictArray\obj\Debug\net6.0\ref\About__ListDictArray.dll
