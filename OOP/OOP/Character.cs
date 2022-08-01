@@ -12,7 +12,8 @@ namespace OOP
     public class Character
     {
         public int health { get; private set; } = 100;
-        
+
+        public static int Speed = 5;
         // or
 
         //private int health = 100;
@@ -48,6 +49,16 @@ namespace OOP
                 damage = health;
             }
             health -= damage;
+        }
+
+        public int PrintSpeed()
+        {
+            return Speed;
+        }
+
+        public void IncreaseSpeed()
+        {
+            Speed += 2;
         }
     }
 }
