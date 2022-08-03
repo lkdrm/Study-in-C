@@ -54,5 +54,27 @@ namespace OOP
             result = divisible / divisor;
             return true;
         }
+
+        // with optional parametr
+        public static double CalcTriagleSquare(double ab, double ac, int alpha, bool isInRadians = false)
+        {
+            if (isInRadians)
+            {
+                return 0.5 * ab * ac * Math.Sin(alpha);
+            }
+            else
+            {
+                double rads = alpha * Math.PI / 180;
+                return 0.5 * ab * ac * Math.Sin(rads);
+            }
+        }
+
+        // or without 4 parametr true or false
+        //public static double CalcTriagleSquare(double ab, double ac, int alpha)
+        //{
+        //        double rads = alpha * Math.PI / 180;
+        //        return 0.5 * ab * ac * Math.Sin(rads);
+        //}
+
     }
 }
