@@ -9,11 +9,40 @@ namespace OOP
     // internal
     // protected
     // private
+
+    public class Pointed
+    {
+        private int x;
+        private int y;
+        public Pointed(int x, int y)
+        {
+            this.x = x;
+            this.y = y;
+        }
+    }
     public class Character
     {
-        public int health { get; private set; } = 100;
+        public int Health { get; private set; } = 100;
 
-        public static int Speed = 5;
+        // now it can`t change.
+        public const int Speed = 5;
+        // or with readonly
+        /// <summary>
+        ///  private readonly int Speed = 5;
+        ///  
+        /// this.Speed = 5;
+        /// </summary>
+        public string Race { get; private set; }
+
+        //public int Armor {get; private set; }
+
+        public Character(string race, int armor = 25)
+        {
+            Race = race;
+            // or
+            // Armor = 25;
+        }
+
         // or
 
         //private int health = 100;
@@ -29,9 +58,9 @@ namespace OOP
         //       health = value;
         //    }
         //}
-        
+
         // or
-        
+
         //public int GetHealth()
         //{
         //    return health;
@@ -44,11 +73,11 @@ namespace OOP
 
         public void hit(int damage)
         {
-            if(damage > health)
+            if(damage > Health)
             {
-                damage = health;
+                damage = Health;
             }
-            health -= damage;
+            Health -= damage;
         }
 
         public int PrintSpeed()
@@ -58,7 +87,8 @@ namespace OOP
 
         public void IncreaseSpeed()
         {
-            Speed += 2;
+            //Speed += 2;
         }
+      
     }
 }
