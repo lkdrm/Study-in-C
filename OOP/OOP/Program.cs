@@ -158,5 +158,40 @@ static void funcSwap()
 ///Console.WriteLine(c.Race);
 ///
 
-ModelXTerminal terminal = new("Id124");
-terminal.Connect();
+///ModelXTerminal terminal = new("Id124");
+///terminal.Connect();
+
+static void AboutInheritanceInterface()
+{
+    Shape[] shapes = new Shape[2];
+    shapes[0] = new Triangle(5, 8, 12);
+    shapes[1] = new Rectangle(8, 4);
+
+    foreach (Shape shape in shapes)
+    {
+        shape.Draw();
+        Console.WriteLine($"The perimeter is : {shape.Perimeter()}");
+    }
+
+    List<object> list = new() { 1, 2, 3 };
+
+    IBaseCollection collection = new BaseList(10);
+    collection.Add(1);
+    collection.Add(2);
+    collection.AddRange(list);
+}
+
+///Rect rect = new() { Height = 2, Width = 5};
+///
+///int rectArea = AreaCalculator.CalcSquare(rect);
+///Console.WriteLine($"Rect area - {rectArea}");
+///
+// The problem of representitive.
+///Rect square = new() { Height = 2, Width = 10};
+///AreaCalculator.CalcSquare(square);
+/// 
+IShape rect = new Rect() { Height = 2, Width = 5};
+IShape sqaure = new Square() { Sidelentgh = 10 };
+
+Console.WriteLine($"Rect area - {rect.CalcSquare()}");
+Console.WriteLine($"Square area - {sqaure.CalcSquare()}");
