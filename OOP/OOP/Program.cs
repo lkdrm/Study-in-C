@@ -190,8 +190,45 @@ static void AboutInheritanceInterface()
 ///Rect square = new() { Height = 2, Width = 10};
 ///AreaCalculator.CalcSquare(square);
 /// 
-IShape rect = new Rect() { Height = 2, Width = 5};
-IShape sqaure = new Square() { Sidelentgh = 10 };
+static void aboutIi()
+{
+    IShape rect = new Rect() { Height = 2, Width = 5 };
+    IShape sqaure = new Square() { Sidelentgh = 10 };
 
-Console.WriteLine($"Rect area - {rect.CalcSquare()}");
-Console.WriteLine($"Square area - {sqaure.CalcSquare()}");
+    Console.WriteLine($"Rect area - {rect.CalcSquare()}");
+    Console.WriteLine($"Square area - {sqaure.CalcSquare()}");
+}
+
+static void aboutEnumeration()
+{
+    Character c = new Character(Race.Elven);
+}
+
+
+var ms = new MyStack<int>();
+
+ms.Push(1);
+ms.Push(2);
+ms.Push(3);
+
+Console.WriteLine(ms.Pick());
+
+ms.Pop();
+Console.WriteLine(ms.Pick());
+
+ms.Push(3);
+ms.Push(4);
+ms.Push(5);
+
+Console.WriteLine(ms.Pick());
+
+foreach(var item in ms)
+{
+    Console.WriteLine(item);
+}
+// or 
+var enumerator = ms.GetEnumerator();
+while (enumerator.MoveNext())
+{
+    Console.WriteLine(enumerator.Current);
+}

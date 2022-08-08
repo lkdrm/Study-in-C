@@ -23,6 +23,9 @@ namespace OOP
     public class Character
     {
         public int Health { get; private set; } = 100;
+        public Race Race { get; private set; }
+
+        public int Armor { get; private set; }
 
         // now it can`t change.
         public const int Speed = 5;
@@ -32,15 +35,48 @@ namespace OOP
         ///  
         /// this.Speed = 5;
         /// </summary>
-        public string Race { get; private set; }
 
         //public int Armor {get; private set; }
 
-        public Character(string race, int armor = 25)
+        public Character(Race race, int armor = 25)
         {
             Race = race;
             // or
             // Armor = 25;
+            //Armor = (int)race; or I can :
+            switch (race)
+            {
+                case Race.Elven:
+                    Armor = 25;
+                    break;
+                case Race.Human:
+                    Armor = 15;
+                    break;
+                case Race.Orcs:
+                    Armor = 40;
+                    break;
+                default:
+                    throw new ArgumentException("Uknown race...");
+        
+            }
+            //or
+
+            if (race == Race.Human)
+            {
+                Armor = 15;
+            }
+            else if (race == Race.Elven)
+            {
+                Armor = 25;
+            }
+            else if (race == Race.Orcs)
+            {
+                Armor = 40;
+            }
+            else
+            {
+                throw new ArgumentException("Uknown race...");
+            }
         }
 
         // or
