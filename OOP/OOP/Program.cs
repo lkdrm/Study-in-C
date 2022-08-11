@@ -222,11 +222,14 @@ ms.Push(5);
 
 Console.WriteLine(ms.Pick());
 
+Console.WriteLine("With foreach ");
+
 foreach(var item in ms)
 {
     Console.WriteLine(item);
 }
 // or 
+Console.WriteLine("With enumerator ");
 var enumerator = ms.GetEnumerator();
 while (enumerator.MoveNext())
 {
