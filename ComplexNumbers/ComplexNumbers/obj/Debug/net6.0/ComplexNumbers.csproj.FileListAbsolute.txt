@@ -1,0 +1,15 @@
+D:\Програми\Visual_Code_C#\ComplexNumbers\ComplexNumbers\bin\Debug\net6.0\ComplexNumbers.exe
+D:\Програми\Visual_Code_C#\ComplexNumbers\ComplexNumbers\bin\Debug\net6.0\ComplexNumbers.deps.json
+D:\Програми\Visual_Code_C#\ComplexNumbers\ComplexNumbers\bin\Debug\net6.0\ComplexNumbers.runtimeconfig.json
+D:\Програми\Visual_Code_C#\ComplexNumbers\ComplexNumbers\bin\Debug\net6.0\ComplexNumbers.dll
+D:\Програми\Visual_Code_C#\ComplexNumbers\ComplexNumbers\bin\Debug\net6.0\ComplexNumbers.pdb
+D:\Програми\Visual_Code_C#\ComplexNumbers\ComplexNumbers\obj\Debug\net6.0\ComplexNumbers.csproj.AssemblyReference.cache
+D:\Програми\Visual_Code_C#\ComplexNumbers\ComplexNumbers\obj\Debug\net6.0\ComplexNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програми\Visual_Code_C#\ComplexNumbers\ComplexNumbers\obj\Debug\net6.0\ComplexNumbers.AssemblyInfoInputs.cache
+D:\Програми\Visual_Code_C#\ComplexNumbers\ComplexNumbers\obj\Debug\net6.0\ComplexNumbers.AssemblyInfo.cs
+D:\Програми\Visual_Code_C#\ComplexNumbers\ComplexNumbers\obj\Debug\net6.0\ComplexNumbers.csproj.CoreCompileInputs.cache
+D:\Програми\Visual_Code_C#\ComplexNumbers\ComplexNumbers\obj\Debug\net6.0\ComplexNumbers.dll
+D:\Програми\Visual_Code_C#\ComplexNumbers\ComplexNumbers\obj\Debug\net6.0\refint\ComplexNumbers.dll
+D:\Програми\Visual_Code_C#\ComplexNumbers\ComplexNumbers\obj\Debug\net6.0\ComplexNumbers.pdb
+D:\Програми\Visual_Code_C#\ComplexNumbers\ComplexNumbers\obj\Debug\net6.0\ComplexNumbers.genruntimeconfig.cache
+D:\Програми\Visual_Code_C#\ComplexNumbers\ComplexNumbers\obj\Debug\net6.0\ref\ComplexNumbers.dll

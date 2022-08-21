@@ -26,6 +26,7 @@ namespace OOP
         public Race Race { get; private set; }
 
         public int Armor { get; private set; }
+        public string Name { get; private set; }
 
         // now it can`t change.
         public const int Speed = 5;
@@ -109,6 +110,10 @@ namespace OOP
 
         public void hit(int damage)
         {
+            if(Health == 0)
+            {
+                throw new InvalidOperationException("Can`t hit a dead pleayer.");
+            }
             if(damage > Health)
             {
                 damage = Health;
@@ -124,6 +129,20 @@ namespace OOP
         public void IncreaseSpeed()
         {
             //Speed += 2;
+        }
+
+        public Character(string name , int armor)
+        {
+            if (name==null)
+            {
+                throw new ArgumentNullException("Name arg can`t be null.");
+            }
+            if(armor <0 || armor > 100)
+            {
+                throw new ArgumentException("Armor can`t be less then 0 or greater than 100.")
+            }
+            Name = name;
+            Armor = armor;
         }
       
     }

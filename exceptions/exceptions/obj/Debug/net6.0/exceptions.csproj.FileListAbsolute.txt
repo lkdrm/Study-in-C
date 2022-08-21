@@ -1,0 +1,15 @@
+D:\Програми\Visual_Code_C#\exceptions\exceptions\bin\Debug\net6.0\exceptions.exe
+D:\Програми\Visual_Code_C#\exceptions\exceptions\bin\Debug\net6.0\exceptions.deps.json
+D:\Програми\Visual_Code_C#\exceptions\exceptions\bin\Debug\net6.0\exceptions.runtimeconfig.json
+D:\Програми\Visual_Code_C#\exceptions\exceptions\bin\Debug\net6.0\exceptions.dll
+D:\Програми\Visual_Code_C#\exceptions\exceptions\bin\Debug\net6.0\exceptions.pdb
+D:\Програми\Visual_Code_C#\exceptions\exceptions\obj\Debug\net6.0\exceptions.csproj.AssemblyReference.cache
+D:\Програми\Visual_Code_C#\exceptions\exceptions\obj\Debug\net6.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програми\Visual_Code_C#\exceptions\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfoInputs.cache
+D:\Програми\Visual_Code_C#\exceptions\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfo.cs
+D:\Програми\Visual_Code_C#\exceptions\exceptions\obj\Debug\net6.0\exceptions.csproj.CoreCompileInputs.cache
+D:\Програми\Visual_Code_C#\exceptions\exceptions\obj\Debug\net6.0\exceptions.dll
+D:\Програми\Visual_Code_C#\exceptions\exceptions\obj\Debug\net6.0\refint\exceptions.dll
+D:\Програми\Visual_Code_C#\exceptions\exceptions\obj\Debug\net6.0\exceptions.pdb
+D:\Програми\Visual_Code_C#\exceptions\exceptions\obj\Debug\net6.0\exceptions.genruntimeconfig.cache
+D:\Програми\Visual_Code_C#\exceptions\exceptions\obj\Debug\net6.0\ref\exceptions.dll
