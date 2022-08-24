@@ -1,0 +1,15 @@
+D:\Програми\Visual_Code_C#\Delegats\Delegats\bin\Debug\net6.0\Delegats.exe
+D:\Програми\Visual_Code_C#\Delegats\Delegats\bin\Debug\net6.0\Delegats.deps.json
+D:\Програми\Visual_Code_C#\Delegats\Delegats\bin\Debug\net6.0\Delegats.runtimeconfig.json
+D:\Програми\Visual_Code_C#\Delegats\Delegats\bin\Debug\net6.0\Delegats.dll
+D:\Програми\Visual_Code_C#\Delegats\Delegats\bin\Debug\net6.0\Delegats.pdb
+D:\Програми\Visual_Code_C#\Delegats\Delegats\obj\Debug\net6.0\Delegats.csproj.AssemblyReference.cache
+D:\Програми\Visual_Code_C#\Delegats\Delegats\obj\Debug\net6.0\Delegats.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програми\Visual_Code_C#\Delegats\Delegats\obj\Debug\net6.0\Delegats.AssemblyInfoInputs.cache
+D:\Програми\Visual_Code_C#\Delegats\Delegats\obj\Debug\net6.0\Delegats.AssemblyInfo.cs
+D:\Програми\Visual_Code_C#\Delegats\Delegats\obj\Debug\net6.0\Delegats.csproj.CoreCompileInputs.cache
+D:\Програми\Visual_Code_C#\Delegats\Delegats\obj\Debug\net6.0\Delegats.dll
+D:\Програми\Visual_Code_C#\Delegats\Delegats\obj\Debug\net6.0\refint\Delegats.dll
+D:\Програми\Visual_Code_C#\Delegats\Delegats\obj\Debug\net6.0\Delegats.pdb
+D:\Програми\Visual_Code_C#\Delegats\Delegats\obj\Debug\net6.0\Delegats.genruntimeconfig.cache
+D:\Програми\Visual_Code_C#\Delegats\Delegats\obj\Debug\net6.0\ref\Delegats.dll
