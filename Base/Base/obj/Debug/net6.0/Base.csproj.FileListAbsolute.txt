@@ -1,0 +1,15 @@
+D:\Програми\Visual_Code_C#\Base\Base\bin\Debug\net6.0\Base.exe
+D:\Програми\Visual_Code_C#\Base\Base\bin\Debug\net6.0\Base.deps.json
+D:\Програми\Visual_Code_C#\Base\Base\bin\Debug\net6.0\Base.runtimeconfig.json
+D:\Програми\Visual_Code_C#\Base\Base\bin\Debug\net6.0\Base.dll
+D:\Програми\Visual_Code_C#\Base\Base\bin\Debug\net6.0\Base.pdb
+D:\Програми\Visual_Code_C#\Base\Base\obj\Debug\net6.0\Base.csproj.AssemblyReference.cache
+D:\Програми\Visual_Code_C#\Base\Base\obj\Debug\net6.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програми\Visual_Code_C#\Base\Base\obj\Debug\net6.0\Base.AssemblyInfoInputs.cache
+D:\Програми\Visual_Code_C#\Base\Base\obj\Debug\net6.0\Base.AssemblyInfo.cs
+D:\Програми\Visual_Code_C#\Base\Base\obj\Debug\net6.0\Base.csproj.CoreCompileInputs.cache
+D:\Програми\Visual_Code_C#\Base\Base\obj\Debug\net6.0\Base.dll
+D:\Програми\Visual_Code_C#\Base\Base\obj\Debug\net6.0\refint\Base.dll
+D:\Програми\Visual_Code_C#\Base\Base\obj\Debug\net6.0\Base.pdb
+D:\Програми\Visual_Code_C#\Base\Base\obj\Debug\net6.0\Base.genruntimeconfig.cache
+D:\Програми\Visual_Code_C#\Base\Base\obj\Debug\net6.0\ref\Base.dll

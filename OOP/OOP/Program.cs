@@ -235,3 +235,6 @@ while (enumerator.MoveNext())
 {
     Console.WriteLine(enumerator.Current);
 }
+Character c3 = new();
+
+c3.Health(20);

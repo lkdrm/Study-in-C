@@ -1,0 +1,15 @@
+D:\Програми\Visual_Code_C#\ChineSticks\ChineSticks\bin\Debug\net6.0\ChineSticks.exe
+D:\Програми\Visual_Code_C#\ChineSticks\ChineSticks\bin\Debug\net6.0\ChineSticks.deps.json
+D:\Програми\Visual_Code_C#\ChineSticks\ChineSticks\bin\Debug\net6.0\ChineSticks.runtimeconfig.json
+D:\Програми\Visual_Code_C#\ChineSticks\ChineSticks\bin\Debug\net6.0\ChineSticks.dll
+D:\Програми\Visual_Code_C#\ChineSticks\ChineSticks\bin\Debug\net6.0\ChineSticks.pdb
+D:\Програми\Visual_Code_C#\ChineSticks\ChineSticks\obj\Debug\net6.0\ChineSticks.csproj.AssemblyReference.cache
+D:\Програми\Visual_Code_C#\ChineSticks\ChineSticks\obj\Debug\net6.0\ChineSticks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програми\Visual_Code_C#\ChineSticks\ChineSticks\obj\Debug\net6.0\ChineSticks.AssemblyInfoInputs.cache
+D:\Програми\Visual_Code_C#\ChineSticks\ChineSticks\obj\Debug\net6.0\ChineSticks.AssemblyInfo.cs
+D:\Програми\Visual_Code_C#\ChineSticks\ChineSticks\obj\Debug\net6.0\ChineSticks.csproj.CoreCompileInputs.cache
+D:\Програми\Visual_Code_C#\ChineSticks\ChineSticks\obj\Debug\net6.0\ChineSticks.dll
+D:\Програми\Visual_Code_C#\ChineSticks\ChineSticks\obj\Debug\net6.0\refint\ChineSticks.dll
+D:\Програми\Visual_Code_C#\ChineSticks\ChineSticks\obj\Debug\net6.0\ChineSticks.pdb
+D:\Програми\Visual_Code_C#\ChineSticks\ChineSticks\obj\Debug\net6.0\ChineSticks.genruntimeconfig.cache
+D:\Програми\Visual_Code_C#\ChineSticks\ChineSticks\obj\Debug\net6.0\ref\ChineSticks.dll
