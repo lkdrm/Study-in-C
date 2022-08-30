@@ -1,0 +1,15 @@
+D:\Програми\Visual_Code_C#\Lambda\Lambda\bin\Debug\net6.0\Lambda.exe
+D:\Програми\Visual_Code_C#\Lambda\Lambda\bin\Debug\net6.0\Lambda.deps.json
+D:\Програми\Visual_Code_C#\Lambda\Lambda\bin\Debug\net6.0\Lambda.runtimeconfig.json
+D:\Програми\Visual_Code_C#\Lambda\Lambda\bin\Debug\net6.0\Lambda.dll
+D:\Програми\Visual_Code_C#\Lambda\Lambda\bin\Debug\net6.0\Lambda.pdb
+D:\Програми\Visual_Code_C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.csproj.AssemblyReference.cache
+D:\Програми\Visual_Code_C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програми\Visual_Code_C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfoInputs.cache
+D:\Програми\Visual_Code_C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfo.cs
+D:\Програми\Visual_Code_C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.csproj.CoreCompileInputs.cache
+D:\Програми\Visual_Code_C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.dll
+D:\Програми\Visual_Code_C#\Lambda\Lambda\obj\Debug\net6.0\refint\Lambda.dll
+D:\Програми\Visual_Code_C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.pdb
+D:\Програми\Visual_Code_C#\Lambda\Lambda\obj\Debug\net6.0\Lambda.genruntimeconfig.cache
+D:\Програми\Visual_Code_C#\Lambda\Lambda\obj\Debug\net6.0\ref\Lambda.dll
