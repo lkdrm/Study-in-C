@@ -1,0 +1,15 @@
+D:\Програми\Visual_Code_C#\ParsingFile\ParsingFile\bin\Debug\net6.0\ParsingFile.exe
+D:\Програми\Visual_Code_C#\ParsingFile\ParsingFile\bin\Debug\net6.0\ParsingFile.deps.json
+D:\Програми\Visual_Code_C#\ParsingFile\ParsingFile\bin\Debug\net6.0\ParsingFile.runtimeconfig.json
+D:\Програми\Visual_Code_C#\ParsingFile\ParsingFile\bin\Debug\net6.0\ParsingFile.dll
+D:\Програми\Visual_Code_C#\ParsingFile\ParsingFile\bin\Debug\net6.0\ParsingFile.pdb
+D:\Програми\Visual_Code_C#\ParsingFile\ParsingFile\obj\Debug\net6.0\ParsingFile.csproj.AssemblyReference.cache
+D:\Програми\Visual_Code_C#\ParsingFile\ParsingFile\obj\Debug\net6.0\ParsingFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програми\Visual_Code_C#\ParsingFile\ParsingFile\obj\Debug\net6.0\ParsingFile.AssemblyInfoInputs.cache
+D:\Програми\Visual_Code_C#\ParsingFile\ParsingFile\obj\Debug\net6.0\ParsingFile.AssemblyInfo.cs
+D:\Програми\Visual_Code_C#\ParsingFile\ParsingFile\obj\Debug\net6.0\ParsingFile.csproj.CoreCompileInputs.cache
+D:\Програми\Visual_Code_C#\ParsingFile\ParsingFile\obj\Debug\net6.0\ParsingFile.dll
+D:\Програми\Visual_Code_C#\ParsingFile\ParsingFile\obj\Debug\net6.0\refint\ParsingFile.dll
+D:\Програми\Visual_Code_C#\ParsingFile\ParsingFile\obj\Debug\net6.0\ParsingFile.pdb
+D:\Програми\Visual_Code_C#\ParsingFile\ParsingFile\obj\Debug\net6.0\ParsingFile.genruntimeconfig.cache
+D:\Програми\Visual_Code_C#\ParsingFile\ParsingFile\obj\Debug\net6.0\ref\ParsingFile.dll

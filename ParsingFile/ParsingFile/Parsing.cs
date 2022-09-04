@@ -16,10 +16,13 @@ namespace ParsingFile
 
         public int Categori { get; set; }
         public int Id { get; set; }
+        public string Rank { get; set; }
+
+        public int Games { get; set; }
 
         public override string ToString()
         {
-            return $"Full name : {FirstName} + ' '+ {LastName}. Rating is : {Rating},{Categori} and from : {Country}. Born {BirthYear}";
+            return $"Full name : {FirstName} {LastName}. Rating is : {Rating},{Categori} and from : {Country}. Born {BirthYear}";
         }
 
         public static Parsing ParseFide(string line)
@@ -28,12 +31,13 @@ namespace ParsingFile
             return new Parsing()
             {
                 Id = int.Parse(parts[0]),
-                LastName = parts[1].Split(",")[0],
-                FirstName = parts[1].Split(",")[1],
-                Categori = int.Parse(parts[2]),
-                Country = parts[2],
-                Rating = int.Parse(parts[3]),
-                BirthYear = int.Parse(parts[4]),
+                LastName = parts[1].Split(" ")[0].Trim(),
+                FirstName = parts[1].Split(" ")[1].Trim(),
+                Rank = parts[2],
+                Country = parts[3],
+                Rating = int.Parse(parts[4]),
+                Games = int.Parse(parts[5]),
+                BirthYear = int.Parse(parts[6].Trim()),
             };
         }
 
