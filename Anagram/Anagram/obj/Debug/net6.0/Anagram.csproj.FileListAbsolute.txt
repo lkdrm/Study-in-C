@@ -1,0 +1,45 @@
+D:\Foxminded\1 Task - Anagram\task-1-anagram\Anagram\Anagram\bin\Debug\net6.0\Anagram.exe
+D:\Foxminded\1 Task - Anagram\task-1-anagram\Anagram\Anagram\bin\Debug\net6.0\Anagram.deps.json
+D:\Foxminded\1 Task - Anagram\task-1-anagram\Anagram\Anagram\bin\Debug\net6.0\Anagram.runtimeconfig.json
+D:\Foxminded\1 Task - Anagram\task-1-anagram\Anagram\Anagram\bin\Debug\net6.0\Anagram.dll
+D:\Foxminded\1 Task - Anagram\task-1-anagram\Anagram\Anagram\bin\Debug\net6.0\Anagram.pdb
+D:\Foxminded\1 Task - Anagram\task-1-anagram\Anagram\Anagram\obj\Debug\net6.0\Anagram.csproj.AssemblyReference.cache
+D:\Foxminded\1 Task - Anagram\task-1-anagram\Anagram\Anagram\obj\Debug\net6.0\Anagram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Foxminded\1 Task - Anagram\task-1-anagram\Anagram\Anagram\obj\Debug\net6.0\Anagram.AssemblyInfoInputs.cache
+D:\Foxminded\1 Task - Anagram\task-1-anagram\Anagram\Anagram\obj\Debug\net6.0\Anagram.AssemblyInfo.cs
+D:\Foxminded\1 Task - Anagram\task-1-anagram\Anagram\Anagram\obj\Debug\net6.0\Anagram.csproj.CoreCompileInputs.cache
+D:\Foxminded\1 Task - Anagram\task-1-anagram\Anagram\Anagram\obj\Debug\net6.0\Anagram.dll
+D:\Foxminded\1 Task - Anagram\task-1-anagram\Anagram\Anagram\obj\Debug\net6.0\refint\Anagram.dll
+D:\Foxminded\1 Task - Anagram\task-1-anagram\Anagram\Anagram\obj\Debug\net6.0\Anagram.pdb
+D:\Foxminded\1 Task - Anagram\task-1-anagram\Anagram\Anagram\obj\Debug\net6.0\Anagram.genruntimeconfig.cache
+D:\Foxminded\1 Task - Anagram\task-1-anagram\Anagram\Anagram\obj\Debug\net6.0\ref\Anagram.dll
+D:\Foxminded\Anagram\bin\Debug\net6.0\Anagram.exe
+D:\Foxminded\Anagram\bin\Debug\net6.0\Anagram.deps.json
+D:\Foxminded\Anagram\bin\Debug\net6.0\Anagram.runtimeconfig.json
+D:\Foxminded\Anagram\bin\Debug\net6.0\Anagram.dll
+D:\Foxminded\Anagram\bin\Debug\net6.0\Anagram.pdb
+D:\Foxminded\Anagram\obj\Debug\net6.0\Anagram.csproj.AssemblyReference.cache
+D:\Foxminded\Anagram\obj\Debug\net6.0\Anagram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Foxminded\Anagram\obj\Debug\net6.0\Anagram.AssemblyInfoInputs.cache
+D:\Foxminded\Anagram\obj\Debug\net6.0\Anagram.AssemblyInfo.cs
+D:\Foxminded\Anagram\obj\Debug\net6.0\Anagram.csproj.CoreCompileInputs.cache
+D:\Foxminded\Anagram\obj\Debug\net6.0\Anagram.dll
+D:\Foxminded\Anagram\obj\Debug\net6.0\refint\Anagram.dll
+D:\Foxminded\Anagram\obj\Debug\net6.0\Anagram.pdb
+D:\Foxminded\Anagram\obj\Debug\net6.0\Anagram.genruntimeconfig.cache
+D:\Foxminded\Anagram\obj\Debug\net6.0\ref\Anagram.dll
+D:\Foxminded\Tasks\Anagram\bin\Debug\net6.0\Anagram.exe
+D:\Foxminded\Tasks\Anagram\bin\Debug\net6.0\Anagram.deps.json
+D:\Foxminded\Tasks\Anagram\bin\Debug\net6.0\Anagram.runtimeconfig.json
+D:\Foxminded\Tasks\Anagram\bin\Debug\net6.0\Anagram.dll
+D:\Foxminded\Tasks\Anagram\bin\Debug\net6.0\Anagram.pdb
+D:\Foxminded\Tasks\Anagram\obj\Debug\net6.0\Anagram.csproj.AssemblyReference.cache
+D:\Foxminded\Tasks\Anagram\obj\Debug\net6.0\Anagram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Foxminded\Tasks\Anagram\obj\Debug\net6.0\Anagram.AssemblyInfoInputs.cache
+D:\Foxminded\Tasks\Anagram\obj\Debug\net6.0\Anagram.AssemblyInfo.cs
+D:\Foxminded\Tasks\Anagram\obj\Debug\net6.0\Anagram.csproj.CoreCompileInputs.cache
+D:\Foxminded\Tasks\Anagram\obj\Debug\net6.0\Anagram.dll
+D:\Foxminded\Tasks\Anagram\obj\Debug\net6.0\refint\Anagram.dll
+D:\Foxminded\Tasks\Anagram\obj\Debug\net6.0\Anagram.pdb
+D:\Foxminded\Tasks\Anagram\obj\Debug\net6.0\Anagram.genruntimeconfig.cache
+D:\Foxminded\Tasks\Anagram\obj\Debug\net6.0\ref\Anagram.dll
